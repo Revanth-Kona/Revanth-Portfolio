@@ -39,7 +39,7 @@ export const skills = [
   },
   {
     title: "Flutter",
-    imageSrc: flutter,
+    imageSrc: Flutter,
   },
 ];
 
