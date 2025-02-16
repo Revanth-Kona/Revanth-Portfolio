@@ -1,7 +1,7 @@
 import html from "../assets/skills/html.png";
 import css from "../assets/skills/css.png";
 import react from "../assets/skills/react.png";
-import bootstrap  from "../assets/skills/Bootstrap.png";
+import bootstrap  from "../assets/skills/bootstrap.png";
 import javascript from "../assets/skills/javascript.png";
 import materialui from "../assets/skills/materialui.png";
 import google from "../assets/history/google.png";
@@ -10,7 +10,7 @@ import netflix from "../assets/history/netflix.png";
 import project1 from "../assets/project1.jpg";
 import project2 from "../assets/project2.jpg";
 import project3 from "../assets/project3.jpg"
-import Flutter from "../assets/skills/Flutter.png"
+import Flutter from "../assets/skills/flutter.png"
 
 export const skills = [
   {
