@@ -3,7 +3,7 @@ import {skills} from '../data/index'
 
 const Skills = () => {
   return (
-    <secion className="experience__container" id="skills">
+    <section className="experience__container" id="skills">
       <h2 className='experience__title'>Skills</h2>
       <div className="ecperience__content">
         <div className='experience__skills'>
@@ -19,7 +19,7 @@ const Skills = () => {
             })}
         </div>
       </div>
-    </secion>
+    </section>
   )
 }
 
