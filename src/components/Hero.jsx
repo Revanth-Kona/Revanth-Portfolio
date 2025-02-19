@@ -15,10 +15,7 @@ const Hero = () => {
           <a href={Resume} download className='hero__contactBtn'>Resume</a>
         </div>
       </div>
-      <img src={hero4} className='hero__img' alt='' />
-      <div className='hero__topBlur'></div>
-      <div className='hero__bottomBlur'></div>
-    </section>
+      <img src={hero4} className='hero__img' alt='' />    </section>
   )
 }
 
