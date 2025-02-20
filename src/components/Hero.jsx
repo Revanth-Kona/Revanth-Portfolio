@@ -1,6 +1,6 @@
 import React from 'react'
 import hero4 from "../assets/hero4.jpg"
-import Resume from '../assets/Sri-Krishna-Revanth-Kona-Frontend-Developer-Resume.pdf'
+import Resume from "../assets/Sri-Krishna-Revanth-Kona-FrontEnd-Resume.pdf"
 
 const Hero = () => {
   return (
